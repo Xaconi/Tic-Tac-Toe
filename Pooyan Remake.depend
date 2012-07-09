@@ -1,0 +1,794 @@
+# depslib dependency file v1.0
+1192737011 source:c:\development\tutorials\sdl tutorial 1\capp_oncleanup.cpp
+	"CApp.h"
+
+1192737011 c:\development\tutorials\sdl tutorial 1\capp.h
+	<SDL.h>
+
+1192737010 source:c:\development\tutorials\sdl tutorial 1\capp_onevent.cpp
+	"CApp.h"
+
+1192737011 source:c:\development\tutorials\sdl tutorial 1\capp_oninit.cpp
+	"CApp.h"
+
+1192736982 source:c:\development\tutorials\sdl tutorial 1\capp_onloop.cpp
+	"CApp.h"
+
+1192736982 source:c:\development\tutorials\sdl tutorial 1\capp_onrender.cpp
+	"CApp.h"
+
+1192737011 c:\development\tutorials\sdl tutorial 1\capp_oncleanup.cpp
+	"CApp.h"
+
+1192737010 c:\development\tutorials\sdl tutorial 1\capp_onevent.cpp
+	"CApp.h"
+
+1192737011 c:\development\tutorials\sdl tutorial 1\capp_oninit.cpp
+	"CApp.h"
+
+1192736982 c:\development\tutorials\sdl tutorial 1\capp_onloop.cpp
+	"CApp.h"
+
+1192736982 c:\development\tutorials\sdl tutorial 1\capp_onrender.cpp
+	"CApp.h"
+
+1192737130 c:\development\tutorials\sdl tutorial 1\capp.cpp
+	"CApp.h"
+
+1341857274 source:o:\pooyan remake\capp.h
+	<SDL/SDL.h>
+	"CSurface.h"
+	"CEvent.h"
+	"Tablero.h"
+	"Menu.h"
+
+1325742240 o:\pooyan remake\sdl\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 o:\pooyan remake\sdl\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 o:\pooyan remake\sdl\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326114588 o:\pooyan remake\sdl\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325742240 o:\pooyan remake\sdl\include\sdl\sdl_platform.h
+
+1326114594 o:\pooyan remake\sdl\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326114600 o:\pooyan remake\sdl\include\sdl\begin_code.h
+
+1325742240 o:\pooyan remake\sdl\include\sdl\close_code.h
+
+1325742240 o:\pooyan remake\sdl\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 o:\pooyan remake\sdl\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 o:\pooyan remake\sdl\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 o:\pooyan remake\sdl\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 o:\pooyan remake\sdl\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325742240 o:\pooyan remake\sdl\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 o:\pooyan remake\sdl\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 o:\pooyan remake\sdl\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 o:\pooyan remake\sdl\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 o:\pooyan remake\sdl\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 o:\pooyan remake\sdl\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 o:\pooyan remake\sdl\include\sdl\sdl_keysym.h
+
+1325742240 o:\pooyan remake\sdl\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 o:\pooyan remake\sdl\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 o:\pooyan remake\sdl\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 o:\pooyan remake\sdl\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325742240 o:\pooyan remake\sdl\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 o:\pooyan remake\sdl\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 o:\pooyan remake\sdl\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1341857656 source:o:\pooyan remake\capp_oncleanup.cpp
+	"CApp.h"
+
+1341857274 o:\pooyan remake\capp.h
+	<SDL/SDL.h>
+	"CSurface.h"
+	"CEvent.h"
+	"Tablero.h"
+	"Menu.h"
+
+1341856438 source:o:\pooyan remake\capp_onevent.cpp
+	"CApp.h"
+	<fstream>
+	<iostream>
+
+1341848910 source:o:\pooyan remake\capp_oninit.cpp
+	"CApp.h"
+	<fstream>
+	<iostream>
+
+1341653670 source:o:\pooyan remake\capp_onloop.cpp
+	"CApp.h"
+
+1341857348 source:o:\pooyan remake\capp_onrender.cpp
+	"CApp.h"
+
+1341856242 source:o:\pooyan remake\capp.cpp
+	"CApp.h"
+	<fstream>
+	<iostream>
+
+1341505276 o:\pooyan remake\csurface.h
+	<SDL.h>
+
+1073238548 o:\pooyan remake\sdl\include\sdl.h
+	"SDL_main.h"
+	"SDL_types.h"
+	"SDL_getenv.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_timer.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_joystick.h"
+	"SDL_events.h"
+	"SDL_video.h"
+	"SDL_byteorder.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1073238548 o:\pooyan remake\sdl\include\sdl_main.h
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1090385606 o:\pooyan remake\sdl\include\sdl_types.h
+
+1105229582 o:\pooyan remake\sdl\include\begin_code.h
+
+1073238548 o:\pooyan remake\sdl\include\close_code.h
+
+1018535714 o:\pooyan remake\sdl\include\sdl_getenv.h
+	"begin_code.h"
+	"close_code.h"
+
+1100565008 o:\pooyan remake\sdl\include\sdl_error.h
+	"begin_code.h"
+	"close_code.h"
+
+1093028222 o:\pooyan remake\sdl\include\sdl_rwops.h
+	<stdio.h>
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1105662296 o:\pooyan remake\sdl\include\sdl_timer.h
+	"SDL_main.h"
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1093028222 o:\pooyan remake\sdl\include\sdl_audio.h
+	<stdio.h>
+	"SDL_main.h"
+	"SDL_types.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_byteorder.h"
+	"begin_code.h"
+	"close_code.h"
+
+1100300958 o:\pooyan remake\sdl\include\sdl_byteorder.h
+
+1113732990 o:\pooyan remake\sdl\include\sdl_cdrom.h
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1090177506 o:\pooyan remake\sdl\include\sdl_joystick.h
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1093028222 o:\pooyan remake\sdl\include\sdl_events.h
+	"SDL_types.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1073238548 o:\pooyan remake\sdl\include\sdl_active.h
+	"begin_code.h"
+	"close_code.h"
+
+1090191460 o:\pooyan remake\sdl\include\sdl_keyboard.h
+	"SDL_types.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1073238548 o:\pooyan remake\sdl\include\sdl_keysym.h
+
+1113732990 o:\pooyan remake\sdl\include\sdl_mouse.h
+	"SDL_types.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1104646276 o:\pooyan remake\sdl\include\sdl_video.h
+	<stdio.h>
+	"SDL_types.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1073238548 o:\pooyan remake\sdl\include\sdl_mutex.h
+	"SDL_main.h"
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1073238548 o:\pooyan remake\sdl\include\sdl_quit.h
+
+1113732990 o:\pooyan remake\sdl\include\sdl_version.h
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1341505428 source:o:\pooyan remake\csurface.cpp
+	"CSurface.h"
+
+1341511236 o:\pooyan remake\cevent.h
+	<SDL.h>
+
+1341684652 source:j:\pooyan remake\capp.cpp
+	"CApp.h"
+	<fstream>
+	<iostream>
+
+1341681680 j:\pooyan remake\capp.h
+	<SDL/SDL.h>
+	"CSurface.h"
+	"CEvent.h"
+	"Tablero.h"
+
+1325742240 j:\pooyan remake\sdl\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 j:\pooyan remake\sdl\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 j:\pooyan remake\sdl\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326114588 j:\pooyan remake\sdl\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325742240 j:\pooyan remake\sdl\include\sdl\sdl_platform.h
+
+1326114594 j:\pooyan remake\sdl\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326114600 j:\pooyan remake\sdl\include\sdl\begin_code.h
+
+1325742240 j:\pooyan remake\sdl\include\sdl\close_code.h
+
+1325742240 j:\pooyan remake\sdl\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 j:\pooyan remake\sdl\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 j:\pooyan remake\sdl\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 j:\pooyan remake\sdl\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 j:\pooyan remake\sdl\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325742240 j:\pooyan remake\sdl\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 j:\pooyan remake\sdl\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 j:\pooyan remake\sdl\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 j:\pooyan remake\sdl\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 j:\pooyan remake\sdl\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 j:\pooyan remake\sdl\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 j:\pooyan remake\sdl\include\sdl\sdl_keysym.h
+
+1325742240 j:\pooyan remake\sdl\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 j:\pooyan remake\sdl\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 j:\pooyan remake\sdl\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 j:\pooyan remake\sdl\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325742240 j:\pooyan remake\sdl\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 j:\pooyan remake\sdl\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 j:\pooyan remake\sdl\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1341505276 j:\pooyan remake\csurface.h
+	<SDL.h>
+
+1073238548 j:\pooyan remake\sdl\include\sdl.h
+	"SDL_main.h"
+	"SDL_types.h"
+	"SDL_getenv.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_timer.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_joystick.h"
+	"SDL_events.h"
+	"SDL_video.h"
+	"SDL_byteorder.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1073238548 j:\pooyan remake\sdl\include\sdl_main.h
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1090385606 j:\pooyan remake\sdl\include\sdl_types.h
+
+1105229582 j:\pooyan remake\sdl\include\begin_code.h
+
+1073238548 j:\pooyan remake\sdl\include\close_code.h
+
+1018535714 j:\pooyan remake\sdl\include\sdl_getenv.h
+	"begin_code.h"
+	"close_code.h"
+
+1100565008 j:\pooyan remake\sdl\include\sdl_error.h
+	"begin_code.h"
+	"close_code.h"
+
+1093028222 j:\pooyan remake\sdl\include\sdl_rwops.h
+	<stdio.h>
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1105662296 j:\pooyan remake\sdl\include\sdl_timer.h
+	"SDL_main.h"
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1093028222 j:\pooyan remake\sdl\include\sdl_audio.h
+	<stdio.h>
+	"SDL_main.h"
+	"SDL_types.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_byteorder.h"
+	"begin_code.h"
+	"close_code.h"
+
+1100300958 j:\pooyan remake\sdl\include\sdl_byteorder.h
+
+1113732990 j:\pooyan remake\sdl\include\sdl_cdrom.h
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1090177506 j:\pooyan remake\sdl\include\sdl_joystick.h
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1093028222 j:\pooyan remake\sdl\include\sdl_events.h
+	"SDL_types.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1073238548 j:\pooyan remake\sdl\include\sdl_active.h
+	"begin_code.h"
+	"close_code.h"
+
+1090191460 j:\pooyan remake\sdl\include\sdl_keyboard.h
+	"SDL_types.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1073238548 j:\pooyan remake\sdl\include\sdl_keysym.h
+
+1113732990 j:\pooyan remake\sdl\include\sdl_mouse.h
+	"SDL_types.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1104646276 j:\pooyan remake\sdl\include\sdl_video.h
+	<stdio.h>
+	"SDL_types.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1073238548 j:\pooyan remake\sdl\include\sdl_mutex.h
+	"SDL_main.h"
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1073238548 j:\pooyan remake\sdl\include\sdl_quit.h
+
+1113732990 j:\pooyan remake\sdl\include\sdl_version.h
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1341511236 j:\pooyan remake\cevent.h
+	<SDL.h>
+
+1341681680 source:j:\pooyan remake\capp.h
+	<SDL/SDL.h>
+	"CSurface.h"
+	"CEvent.h"
+	"Tablero.h"
+
+1341652546 source:j:\pooyan remake\capp_oncleanup.cpp
+	"CApp.h"
+
+1341737222 source:j:\pooyan remake\capp_onevent.cpp
+	"CApp.h"
+	<fstream>
+	<iostream>
+
+1341653670 source:j:\pooyan remake\capp_onloop.cpp
+	"CApp.h"
+
+1341684978 source:j:\pooyan remake\capp_onrender.cpp
+	"CApp.h"
+
+1341681630 source:j:\pooyan remake\cevent.cpp
+	"CEvent.h"
+	<fstream>
+	<iostream>
+
+1341505428 source:j:\pooyan remake\csurface.cpp
+	"CSurface.h"
+
+1341681306 source:j:\pooyan remake\capp_oninit.cpp
+	"CApp.h"
+	<fstream>
+	<iostream>
+
+1341737232 j:\pooyan remake\tablero.h
+	<SDL/SDL.h>
+	"CSurface.h"
+
+1341738446 source:j:\pooyan remake\tablero.cpp
+	"Tablero.h"
+	<fstream>
+	<iostream>
+
+1341737232 o:\pooyan remake\tablero.h
+	<SDL/SDL.h>
+	"CSurface.h"
+
+1341681630 source:o:\pooyan remake\cevent.cpp
+	"CEvent.h"
+	<fstream>
+	<iostream>
+
+1341845356 source:o:\pooyan remake\tablero.cpp
+	"Tablero.h"
+	<fstream>
+	<iostream>
+
+1341857172 o:\pooyan remake\menu.h
+	<SDL/SDL.h>
+	"CSurface.h"
+	"Button.h"
+
+1341857234 o:\pooyan remake\button.h
+	<SDL/SDL.h>
+	"CSurface.h"
+
+1341857220 source:o:\pooyan remake\button.cpp
+	"Button.h"
+
+1341857296 source:o:\pooyan remake\menu.cpp
+	"Menu.h"
+

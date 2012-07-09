@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="SDL Tutorial 1" />
+		<Option pch_mode="0" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Release">
+				<Option output="bin\SDL Tutorial 1.exe" prefix_auto="0" extension_auto="0" />
+				<Option working_dir="bin" />
+				<Option object_output="obj" />
+				<Option deps_output="dep" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Option projectResourceIncludeDirsRelation="0" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-Wall" />
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+		</Build>
+		<VirtualTargets>
+			<Add alias="All" targets="Release;" />
+		</VirtualTargets>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-g" />
+			<Add directory="SDL\include" />
+		</Compiler>
+		<Linker>
+			<Add library="mingw32" />
+			<Add library="SDLmain" />
+			<Add library="SDL" />
+			<Add directory="SDL\lib" />
+		</Linker>
+		<Unit filename="Button.cpp" />
+		<Unit filename="Button.h" />
+		<Unit filename="CApp.cpp" />
+		<Unit filename="CApp.h">
+			<Option compile="1" />
+		</Unit>
+		<Unit filename="CApp_OnCleanup.cpp" />
+		<Unit filename="CApp_OnEvent.cpp" />
+		<Unit filename="CApp_OnInit.cpp" />
+		<Unit filename="CApp_OnLoop.cpp" />
+		<Unit filename="CApp_OnRender.cpp" />
+		<Unit filename="CEvent.cpp" />
+		<Unit filename="CEvent.h" />
+		<Unit filename="Csurface.cpp" />
+		<Unit filename="Csurface.h" />
+		<Unit filename="Menu.cpp" />
+		<Unit filename="Menu.h" />
+		<Unit filename="Tablero.cpp" />
+		<Unit filename="Tablero.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

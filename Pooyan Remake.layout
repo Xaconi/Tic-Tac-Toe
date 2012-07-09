@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="All" />
+	<File name="Button.cpp" open="1" top="0" tabpos="15">
+		<Cursor position="821" topLine="15" />
+	</File>
+	<File name="Button.h" open="1" top="0" tabpos="16">
+		<Cursor position="457" topLine="0" />
+	</File>
+	<File name="CApp.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="939" topLine="0" />
+	</File>
+	<File name="CApp.h" open="1" top="0" tabpos="5">
+		<Cursor position="765" topLine="21" />
+	</File>
+	<File name="CApp_OnCleanup.cpp" open="1" top="0" tabpos="10">
+		<Cursor position="472" topLine="0" />
+	</File>
+	<File name="CApp_OnEvent.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="739" topLine="15" />
+	</File>
+	<File name="CApp_OnInit.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="512" topLine="0" />
+	</File>
+	<File name="CApp_OnLoop.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="206" topLine="0" />
+	</File>
+	<File name="CApp_OnRender.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="341" topLine="0" />
+	</File>
+	<File name="CEvent.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="1626" topLine="48" />
+	</File>
+	<File name="CEvent.h" open="1" top="0" tabpos="9">
+		<Cursor position="114" topLine="0" />
+	</File>
+	<File name="Csurface.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="629" topLine="2" />
+	</File>
+	<File name="Csurface.h" open="1" top="0" tabpos="6">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Menu.cpp" open="1" top="1" tabpos="13">
+		<Cursor position="1104" topLine="19" />
+	</File>
+	<File name="Menu.h" open="1" top="0" tabpos="14">
+		<Cursor position="420" topLine="0" />
+	</File>
+	<File name="Tablero.cpp" open="1" top="0" tabpos="11">
+		<Cursor position="851" topLine="16" />
+	</File>
+	<File name="Tablero.h" open="1" top="0" tabpos="12">
+		<Cursor position="63" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
