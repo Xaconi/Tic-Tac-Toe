@@ -2,10 +2,10 @@
 
 Menu::Menu()
 {
-    capsalera = CSurface::OnLoad("O:\\Pooyan Remake\\Image\\logo.bmp");  // Creem la imatge de la capçalera del menu...
-    fons = CSurface::OnLoad("O:\\Pooyan Remake\\Image\\fons.bmp");
-    botons[0] = new Button(220,350,"O:\\Pooyan Remake\\Image\\boto1Polsat.bmp","O:\\Pooyan Remake\\Image\\boto1NoPolsat.bmp");
-    botons[1] = new Button(220,450,"O:\\Pooyan Remake\\Image\\boto2Polsat.bmp","O:\\Pooyan Remake\\Image\\boto2NoPolsat.bmp");
+    capsalera = CSurface::OnLoad("C:\\Users\\Xaconi\\Documents\\GitHub\\Tic-Tac-Toe\\Image\\logo.bmp");  // Creem la imatge de la capçalera del menu...
+    fons = CSurface::OnLoad("C:\\Users\\Xaconi\\Documents\\GitHub\\Tic-Tac-Toe\\Image\\fons.bmp");
+    botons[0] = new Button(220,350,"C:\\Users\\Xaconi\\Documents\\GitHub\\Tic-Tac-Toe\\Image\\boto1Polsat.bmp","C:\\Users\\Xaconi\\Documents\\GitHub\\Tic-Tac-Toe\\Image\\boto1NoPolsat.bmp");
+    botons[1] = new Button(220,450,"C:\\Users\\Xaconi\\Documents\\GitHub\\Tic-Tac-Toe\\Image\\boto2Polsat.bmp","C:\\Users\\Xaconi\\Documents\\GitHub\\Tic-Tac-Toe\\Image\\boto2NoPolsat.bmp");
     posicioX = 180;
     posicioY = 80;
 }

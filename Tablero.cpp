@@ -5,9 +5,9 @@ using namespace std;
 
 Tablero::Tablero()
 {
-    tablero = CSurface::OnLoad("O:\\Pooyan Remake\\Image\\tablero.bmp");  // Creem la imatge del tablero...
-    X = CSurface::OnLoad("O:\\Pooyan Remake\\Image\\cruz.bmp");
-    O = CSurface::OnLoad("O:\\Pooyan Remake\\Image\\circulo.bmp");
+    tablero = CSurface::OnLoad("C:\\Users\\Xaconi\\Documents\\GitHub\\Tic-Tac-Toe\\Image\\tablero.bmp");  // Creem la imatge del tablero...
+    X = CSurface::OnLoad("C:\\Users\\Xaconi\\Documents\\GitHub\\Tic-Tac-Toe\\Image\\cruz.bmp");
+    O = CSurface::OnLoad("C:\\Users\\Xaconi\\Documents\\GitHub\\Tic-Tac-Toe\\Image\\circulo.bmp");
     partida = false;
     turno = 0;
     modificarMatriu();
