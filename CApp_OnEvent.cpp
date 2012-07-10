@@ -13,7 +13,8 @@ void CApp::OnEventMenu(SDL_Event* Event) {
                 case SDL_BUTTON_LEFT: {
                     opcio = menu->mirarSiBotoPolsat(Event->button.x,Event->button.y);
                     if(opcio == 1) fase = 1;
-                    else if(opcio == 2) OnExit();
+                    else if(opcio == 2) fase = 3;
+                    else if(opcio == 3) OnExit();
                     break;
                 }
             }
@@ -32,7 +33,19 @@ void CApp::OnExit() {
 
 void CApp::OnLButtonDown(int x, int y)
 {
-    tablero->ferJugada(pantalla, x,y);
+    if(fase == 2)
+    {
+        if(tablero->turno % 2 == 0) tablero->ferJugada(pantalla, x,y,1);
+        else tablero->ferJugada(pantalla, x,y,2);
+    }
+    else if(fase == 4)
+    {
+        tablero->ferJugada(pantalla, x,y,1);
+        int* moviment = inteligencia->minimax(tablero, 1);
+        cout << moviment[1] << endl;
+        tablero->posarFitxa(moviment[1], moviment[2], 2);
+        tablero->turno++;
+    }
     if(tablero->comprovarJugada()) Running = false;
 }
 

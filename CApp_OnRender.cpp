@@ -18,6 +18,12 @@ void CApp::OnRender() {
         tablero->dibuixaFitxes(pantalla);
         SDL_Flip(pantalla);
     }
+    else if(fase == 4)
+    {
+        tablero->dibuixa(pantalla);
+        tablero->dibuixaFitxes(pantalla);
+        SDL_Flip(pantalla);
+    }
 }
 
 //==============================================================================

@@ -7,8 +7,8 @@
 #include <SDL/SDL.h>
 #include "CSurface.h"
 #include "CEvent.h"
-#include "Tablero.h"
 #include "Menu.h"
+#include "AI.h"
 
 //==============================================================================
 class CApp : public CEvent {
@@ -20,6 +20,7 @@ class CApp : public CEvent {
         Tablero*        tablero;
         Menu*           menu;
         int             fase;
+        AI*             inteligencia;
         CApp();
 
         int OnExecute();

@@ -6,7 +6,7 @@ class Menu
 {
     public:
         // Variables
-        Button* botons[2];
+        Button* botons[3];
         SDL_Surface* capsalera;
         SDL_Surface* fons;
         int posicioX;

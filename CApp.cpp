@@ -40,6 +40,20 @@ int CApp::OnExecute() {
             OnLoop();
             OnRender();
         }
+        else if(fase == 3)
+        {
+            inteligencia = new AI(3);
+            tablero = new Tablero();
+            fase = 4;
+        }
+        else if(fase == 4)
+        {
+             while(SDL_PollEvent(&Event)) {
+                OnEvent(&Event);
+            }
+            OnLoop();
+            OnRender();
+        }
     }
     OnCleanup();
     return 0;

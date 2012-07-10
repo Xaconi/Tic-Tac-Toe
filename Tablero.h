@@ -14,8 +14,11 @@ class Tablero
         Tablero();
         void dibuixa(SDL_Surface* pantalla);
         void lliberarMemoria();
-        void ferJugada(SDL_Surface* pantalla, int x, int y);
+        void ferJugada(SDL_Surface* pantalla, int x, int y, int valor);
         void dibuixaFitxes(SDL_Surface* pantalla);
         void modificarMatriu();
         bool comprovarJugada();
+        bool llocLliure(int x, int y);
+        void posarFitxa(int x, int y, int valor);
+        void treureFitxa(int x, int y, int valor);
 };

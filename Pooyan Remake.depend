@@ -1113,41 +1113,41 @@
 	"begin_code.h"
 	"close_code.h"
 
-1341856242 source:c:\users\xaconi\documents\github\tic-tac-toe\capp.cpp
+1341938815 source:c:\users\xaconi\documents\github\tic-tac-toe\capp.cpp
 	"CApp.h"
 	<fstream>
 	<iostream>
 
-1341857274 c:\users\xaconi\documents\github\tic-tac-toe\capp.h
+1341939420 c:\users\xaconi\documents\github\tic-tac-toe\capp.h
 	<SDL/SDL.h>
 	"CSurface.h"
 	"CEvent.h"
-	"Tablero.h"
 	"Menu.h"
+	"AI.h"
 
 1341511236 c:\users\xaconi\documents\github\tic-tac-toe\cevent.h
 	<SDL.h>
 
-1341737232 c:\users\xaconi\documents\github\tic-tac-toe\tablero.h
+1341940303 c:\users\xaconi\documents\github\tic-tac-toe\tablero.h
 	<SDL/SDL.h>
 	"CSurface.h"
 
-1341857172 c:\users\xaconi\documents\github\tic-tac-toe\menu.h
+1341937943 c:\users\xaconi\documents\github\tic-tac-toe\menu.h
 	<SDL/SDL.h>
 	"CSurface.h"
 	"Button.h"
 
-1341857274 source:c:\users\xaconi\documents\github\tic-tac-toe\capp.h
+1341939420 source:c:\users\xaconi\documents\github\tic-tac-toe\capp.h
 	<SDL/SDL.h>
 	"CSurface.h"
 	"CEvent.h"
-	"Tablero.h"
 	"Menu.h"
+	"AI.h"
 
 1341857656 source:c:\users\xaconi\documents\github\tic-tac-toe\capp_oncleanup.cpp
 	"CApp.h"
 
-1341856438 source:c:\users\xaconi\documents\github\tic-tac-toe\capp_onevent.cpp
+1341942186 source:c:\users\xaconi\documents\github\tic-tac-toe\capp_onevent.cpp
 	"CApp.h"
 	<fstream>
 	<iostream>
@@ -1160,7 +1160,7 @@
 1341653670 source:c:\users\xaconi\documents\github\tic-tac-toe\capp_onloop.cpp
 	"CApp.h"
 
-1341857348 source:c:\users\xaconi\documents\github\tic-tac-toe\capp_onrender.cpp
+1341939827 source:c:\users\xaconi\documents\github\tic-tac-toe\capp_onrender.cpp
 	"CApp.h"
 
 1341681630 source:c:\users\xaconi\documents\github\tic-tac-toe\cevent.cpp
@@ -1171,11 +1171,20 @@
 1341505428 source:c:\users\xaconi\documents\github\tic-tac-toe\csurface.cpp
 	"CSurface.h"
 
-1341862229 source:c:\users\xaconi\documents\github\tic-tac-toe\menu.cpp
+1341938392 source:c:\users\xaconi\documents\github\tic-tac-toe\menu.cpp
 	"Menu.h"
 
-1341862295 source:c:\users\xaconi\documents\github\tic-tac-toe\tablero.cpp
+1341943981 source:c:\users\xaconi\documents\github\tic-tac-toe\tablero.cpp
 	"Tablero.h"
 	<fstream>
 	<iostream>
+
+1341947974 source:c:\users\xaconi\documents\github\tic-tac-toe\ai.cpp
+	"AI.h"
+	<fstream>
+	<iostream>
+
+1341945243 c:\users\xaconi\documents\github\tic-tac-toe\ai.h
+	<SDL/SDL.h>
+	"Tablero.h"
 
