@@ -41,9 +41,9 @@ void CApp::OnLButtonDown(int x, int y)
     else if(fase == 4)
     {
         tablero->ferJugada(pantalla, x,y,1);
-        int* moviment = inteligencia->minimax(tablero, 1);
-        cout << moviment[1] << endl;
-        tablero->posarFitxa(moviment[1], moviment[2], 2);
+        int moviment = inteligencia->minimax(tablero, 1);
+        cout << "-------- Moviment de la IA: " << inteligencia->millorPosicioX << ", " << inteligencia->millorPosicioX << " amb una prioritat de " << moviment << endl;
+        tablero->posarFitxa(inteligencia->millorPosicioX, inteligencia->millorPosicioY, 2);
         tablero->turno++;
     }
     if(tablero->comprovarJugada()) Running = false;

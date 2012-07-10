@@ -1,59 +1,715 @@
-Resultats MIN: 20,0,1
-Resultats MIN: 62,0,2
-Resultats MIN: 23,1,1
-Resultats MIN: 65,1,2
-Resultats MIN: 26,2,2
-Resultats MAX: 26,0,0
-Resultats MIN: 74,0,0
-Resultats MIN: 35,1,0
-Resultats MIN: 77,1,1
-Resultats MIN: 38,2,1
-Resultats MIN: 80,2,2
-Resultats MAX: 80,0,1
-Resultats MAX: 8,1,0
-Resultats MIN: 8,0,0
-Resultats MIN: 47,0,1
-Resultats MIN: 89,1,0
-Resultats MIN: 8,1,1
-Resultats MIN: 50,1,2
-Resultats MIN: 92,2,1
-Resultats MIN: 11,2,2
-Resultats MIN: 59,0,0
-Resultats MIN: 20,0,2
-Resultats MIN: 62,1,1
-Resultats MIN: 23,2,1
-Resultats MIN: 65,2,2
-Resultats MIN: 32,0,1
-Resultats MIN: 74,0,2
-Resultats MIN: 35,1,2
-Resultats MIN: 77,2,1
-Resultats MAX: 100,1,1
-Resultats MIN: 44,0,0
-Resultats MIN: 86,0,1
-Resultats MAX: 8,1,1
-Resultats MIN: 8,0,2
-Resultats MIN: 47,1,0
-Resultats MIN: 89,1,1
-Resultats MIN: 8,2,1
-Resultats MIN: 50,2,2
-Resultats MIN: 98,0,0
-Resultats MIN: 17,0,1
-Resultats MIN: 59,0,2
-Resultats MIN: 20,1,1
-Resultats MIN: 62,1,2
-Resultats MIN: 29,0,0
-Resultats MIN: 71,0,1
-Resultats MIN: 29,2,1
-1
-Resultats MIN: 83,0,1
-Resultats MAX: 100,0,0
-Resultats MIN: 17,0,2
-Resultats MIN: 47,1,0
-Resultats MIN: 77,1,2
-Resultats MIN: 11,2,1
-Resultats MIN: 47,0,0
-Resultats MIN: 77,0,1
-Resultats MIN: 11,0,2
-Resultats MIN: 41,1,0
-Resultats MIN: 71,2,1
-0
+++++++++++PRIORITAT: 1
+Resultats MAX: 1,0,2
+++++++++++PRIORITAT: 4
+Resultats MAX: 4,1,0
+++++++++++PRIORITAT: 4
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+Resultats MIN: 4,0,1
+++++++++++PRIORITAT: 4
+Resultats MAX: 4,0,1
+++++++++++PRIORITAT: 4
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,1,1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+Resultats MIN: 14,0,2
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,1
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+Resultats MIN: 14,1,0
+++++++++++PRIORITAT: 4
+Resultats MAX: 4,0,1
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,2
+++++++++++PRIORITAT: 4
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: -5
+Resultats MIN: 14,1,1
+++++++++++PRIORITAT: 4
+Resultats MAX: 4,0,1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 4
+++++++++++PRIORITAT: 4
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+Resultats MIN: 4,1,2
+++++++++++PRIORITAT: 4
+Resultats MAX: 4,0,1
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: 4
+++++++++++PRIORITAT: 4
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,2,2
+Resultats MIN: 14,2,1
+++++++++++PRIORITAT: 4
+Resultats MAX: 4,0,1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 4
+++++++++++PRIORITAT: 4
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,2,1
+Resultats MIN: 14,2,2
+Resultats MAX: 14,0,0
+++++++++++PRIORITAT: 1
+Resultats MAX: 1,0,2
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,1,0
+++++++++++PRIORITAT: 4
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+Resultats MIN: 14,0,0
+++++++++++PRIORITAT: 4
+Resultats MAX: 4,0,0
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,1,1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+Resultats MIN: 14,0,2
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,0
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 4
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+Resultats MIN: 14,1,0
+++++++++++PRIORITAT: 4
+Resultats MAX: 4,0,0
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,2
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: -5
+Resultats MIN: 14,1,1
+++++++++++PRIORITAT: 4
+Resultats MAX: 4,0,0
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 4
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+Resultats MIN: 4,1,2
+++++++++++PRIORITAT: 4
+Resultats MAX: 4,0,0
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: 4
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,2,2
+Resultats MIN: 14,2,1
+++++++++++PRIORITAT: 4
+Resultats MAX: 4,0,0
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 4
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,2,1
+Resultats MIN: 14,2,2
+++++++++++PRIORITAT: 1
+Resultats MAX: 1,0,1
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,1,0
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+Resultats MIN: 14,0,0
+++++++++++PRIORITAT: 1
+Resultats MAX: 1,0,0
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+Resultats MIN: 1,0,1
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,0
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+Resultats MIN: 14,1,0
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,0
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+Resultats MIN: 14,1,1
+++++++++++PRIORITAT: 1
+Resultats MAX: 1,0,0
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+Resultats MIN: 1,1,2
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,2,2
+Resultats MIN: 14,2,1
+++++++++++PRIORITAT: 1
+Resultats MAX: 1,0,0
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,2,1
+Resultats MIN: 14,2,2
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,1
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+Resultats MIN: 14,0,0
+++++++++++PRIORITAT: 4
+Resultats MAX: 4,0,0
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 4
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+Resultats MIN: 4,0,1
+++++++++++PRIORITAT: 4
+Resultats MAX: 4,0,0
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,1,1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+Resultats MIN: 14,0,2
+++++++++++PRIORITAT: 4
+Resultats MAX: 4,0,0
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,2
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: -5
+Resultats MIN: 14,1,1
+++++++++++PRIORITAT: 4
+Resultats MAX: 4,0,0
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 4
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+Resultats MIN: 4,1,2
+++++++++++PRIORITAT: 4
+Resultats MAX: 4,0,0
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: 4
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,2,2
+Resultats MIN: 14,2,1
+++++++++++PRIORITAT: 4
+Resultats MAX: 4,0,0
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 4
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,2,1
+Resultats MIN: 14,2,2
+++++++++++PRIORITAT: 4
+Resultats MAX: 4,0,1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,1,0
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+Resultats MIN: 14,0,0
+++++++++++PRIORITAT: 4
+Resultats MAX: 4,0,0
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 4
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+Resultats MIN: 4,0,1
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,0
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+Resultats MIN: 14,0,2
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,0
+++++++++++PRIORITAT: 4
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+Resultats MIN: 14,1,0
+++++++++++PRIORITAT: 4
+Resultats MAX: 4,0,0
+++++++++++PRIORITAT: 4
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 4
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+Resultats MIN: 4,1,2
+++++++++++PRIORITAT: 4
+Resultats MAX: 4,0,0
+++++++++++PRIORITAT: 4
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: 4
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,2,2
+Resultats MIN: 14,2,1
+++++++++++PRIORITAT: 4
+Resultats MAX: 4,0,0
+++++++++++PRIORITAT: 4
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 4
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,2,1
+Resultats MIN: 14,2,2
+++++++++++PRIORITAT: 1
+Resultats MAX: 1,0,1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,1,0
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 4
+Resultats MIN: 14,0,0
+++++++++++PRIORITAT: 1
+Resultats MAX: 1,0,0
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 4
+Resultats MAX: 4,2,2
+Resultats MIN: 4,0,1
+++++++++++PRIORITAT: 1
+Resultats MAX: 1,0,0
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,1,1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 4
+Resultats MIN: 14,0,2
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,0
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 4
+Resultats MIN: 14,1,0
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,2
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: 4
+Resultats MIN: 14,1,1
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,2,2
+Resultats MIN: 14,2,1
+++++++++++PRIORITAT: 1
+Resultats MAX: 1,0,0
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,2,1
+Resultats MIN: 14,2,2
+++++++++++PRIORITAT: 1
+Resultats MAX: 1,0,1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,1,0
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+Resultats MIN: 14,0,0
+++++++++++PRIORITAT: 1
+Resultats MAX: 1,0,0
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+Resultats MIN: 1,0,1
+++++++++++PRIORITAT: 1
+Resultats MAX: 1,0,0
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,1,1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+Resultats MIN: 14,0,2
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,0
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+Resultats MIN: 14,1,0
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,2
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: -5
+Resultats MIN: 14,1,1
+++++++++++PRIORITAT: 1
+Resultats MAX: 1,0,0
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+Resultats MIN: 1,1,2
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,0
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+Resultats MIN: 14,2,2
+++++++++++PRIORITAT: 1
+Resultats MAX: 1,0,1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,1,0
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 4
+++++++++++PRIORITAT: 1
+Resultats MIN: 14,0,0
+++++++++++PRIORITAT: 1
+Resultats MAX: 1,0,0
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 4
+Resultats MAX: 4,1,2
+++++++++++PRIORITAT: 1
+Resultats MIN: 4,0,1
+++++++++++PRIORITAT: 1
+Resultats MAX: 1,0,0
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,1,1
+++++++++++PRIORITAT: 4
+++++++++++PRIORITAT: 1
+Resultats MIN: 14,0,2
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,0
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 4
+++++++++++PRIORITAT: 1
+Resultats MIN: 14,1,0
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,2
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: 4
+++++++++++PRIORITAT: -5
+Resultats MIN: 14,1,1
+++++++++++PRIORITAT: 1
+Resultats MAX: 1,0,0
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+++++++++++PRIORITAT: 1
+Resultats MIN: 1,1,2
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,0
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+Resultats MIN: 14,2,1
+-------- Moviment de la IA: 2, 2 amb una prioritat de 14
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,2
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+Resultats MIN: 14,0,1
+++++++++++PRIORITAT: 4
+Resultats MAX: 4,0,1
+++++++++++PRIORITAT: 4
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: -5
+Resultats MIN: 4,0,2
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,1
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+Resultats MIN: 14,1,0
+++++++++++PRIORITAT: 4
+Resultats MAX: 4,0,1
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,2
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: -5
+Resultats MIN: 14,1,2
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,1
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+Resultats MIN: 14,2,2
+Resultats MAX: 14,0,0
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,2
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: 14
+Resultats MIN: 14,0,0
+++++++++++PRIORITAT: 4
+Resultats MAX: 4,0,0
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: -5
+Resultats MIN: 4,0,2
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,0
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: -5
+Resultats MIN: 14,1,0
+++++++++++PRIORITAT: 4
+Resultats MAX: 4,0,0
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,2
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: -5
+Resultats MIN: 14,1,2
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,0
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+Resultats MIN: 14,2,2
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,1
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+Resultats MIN: 14,0,0
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,0
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+Resultats MIN: 14,0,1
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,0
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+Resultats MIN: 14,1,0
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,0
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+Resultats MIN: 14,1,2
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,0
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+Resultats MIN: 14,2,2
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,1
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+Resultats MIN: 14,0,0
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,0
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+Resultats MIN: 14,0,1
+++++++++++PRIORITAT: 4
+Resultats MAX: 4,0,0
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: -5
+Resultats MIN: 4,0,2
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,0
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+Resultats MIN: 14,1,2
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,0
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+Resultats MIN: 14,2,2
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,2
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+Resultats MIN: 14,0,0
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,0
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+Resultats MIN: 14,0,1
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: 4
+Resultats MAX: 4,2,2
+Resultats MIN: 4,0,2
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,0
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+Resultats MIN: 14,1,0
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,0
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+Resultats MIN: 14,2,2
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,1
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+Resultats MIN: 14,0,0
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,0
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+Resultats MIN: 14,0,1
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: 4
+Resultats MAX: 4,1,2
+Resultats MIN: 4,0,2
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,0
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: 14
+++++++++++PRIORITAT: 14
+Resultats MIN: 14,1,0
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: -5
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,2
+++++++++++PRIORITAT: 14
+Resultats MIN: 14,1,2
+-------- Moviment de la IA: 1, 1 amb una prioritat de 14
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,2
+++++++++++PRIORITAT: 14
+Resultats MIN: 14,0,1
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,1
+++++++++++PRIORITAT: 14
+Resultats MIN: 14,0,2
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,1
+++++++++++PRIORITAT: 14
+Resultats MIN: 14,1,0
+Resultats MAX: 14,0,0
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,2
+++++++++++PRIORITAT: 14
+Resultats MIN: 14,0,0
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,0
+++++++++++PRIORITAT: 14
+Resultats MIN: 14,0,2
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,0
+++++++++++PRIORITAT: 14
+Resultats MIN: 14,1,0
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,1
+++++++++++PRIORITAT: 14
+Resultats MIN: 14,0,0
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,0
+++++++++++PRIORITAT: 14
+Resultats MIN: 14,0,1
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,0
+++++++++++PRIORITAT: 14
+Resultats MIN: 14,1,0
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,1
+++++++++++PRIORITAT: 14
+Resultats MIN: 14,0,0
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,0
+++++++++++PRIORITAT: 14
+Resultats MIN: 14,0,1
+++++++++++PRIORITAT: 14
+Resultats MAX: 14,0,0
+++++++++++PRIORITAT: 14
+Resultats MIN: 14,0,2
+-------- Moviment de la IA: 0, 0 amb una prioritat de 14
+Resultats MIN: 0,1,0
+Resultats MIN: 0,0,1
+-------- Moviment de la IA: 0, 0 amb una prioritat de 0

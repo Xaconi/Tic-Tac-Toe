@@ -1113,7 +1113,7 @@
 	"begin_code.h"
 	"close_code.h"
 
-1341938815 source:c:\users\xaconi\documents\github\tic-tac-toe\capp.cpp
+1341951126 source:c:\users\xaconi\documents\github\tic-tac-toe\capp.cpp
 	"CApp.h"
 	<fstream>
 	<iostream>
@@ -1147,7 +1147,7 @@
 1341857656 source:c:\users\xaconi\documents\github\tic-tac-toe\capp_oncleanup.cpp
 	"CApp.h"
 
-1341942186 source:c:\users\xaconi\documents\github\tic-tac-toe\capp_onevent.cpp
+1341958878 source:c:\users\xaconi\documents\github\tic-tac-toe\capp_onevent.cpp
 	"CApp.h"
 	<fstream>
 	<iostream>
@@ -1179,12 +1179,12 @@
 	<fstream>
 	<iostream>
 
-1341947974 source:c:\users\xaconi\documents\github\tic-tac-toe\ai.cpp
+1341958983 source:c:\users\xaconi\documents\github\tic-tac-toe\ai.cpp
 	"AI.h"
 	<fstream>
 	<iostream>
 
-1341945243 c:\users\xaconi\documents\github\tic-tac-toe\ai.h
+1341958898 c:\users\xaconi\documents\github\tic-tac-toe\ai.h
 	<SDL/SDL.h>
 	"Tablero.h"
 

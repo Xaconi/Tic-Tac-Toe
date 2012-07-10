@@ -35,6 +35,8 @@
 			<Add library="SDL" />
 			<Add directory="SDL\lib" />
 		</Linker>
+		<Unit filename="AI.cpp" />
+		<Unit filename="AI.h" />
 		<Unit filename="Button.cpp" />
 		<Unit filename="Button.h" />
 		<Unit filename="CApp.cpp" />
