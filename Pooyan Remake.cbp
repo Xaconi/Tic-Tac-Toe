@@ -31,8 +31,8 @@
 		</Compiler>
 		<Linker>
 			<Add library="mingw32" />
-			<Add library="SDLmain" />
 			<Add library="SDL" />
+			<Add library="SDLmain" />
 			<Add directory="SDL\lib" />
 		</Linker>
 		<Unit filename="AI.cpp" />

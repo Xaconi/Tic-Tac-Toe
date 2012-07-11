@@ -1188,3 +1188,399 @@
 	<SDL/SDL.h>
 	"Tablero.h"
 
+1342019089 source:c:\users\faqn\documents\github\tic-tac-toe\ai.cpp
+	"AI.h"
+	<fstream>
+	<iostream>
+
+1342019089 c:\users\faqn\documents\github\tic-tac-toe\ai.h
+	<SDL/SDL.h>
+	"Tablero.h"
+
+1342019095 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1342019095 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1342019095 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1342019095 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1342019095 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl\sdl_platform.h
+
+1342019095 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1342019095 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl\begin_code.h
+
+1342019095 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl\close_code.h
+
+1342019095 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1342019095 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1342019095 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1342019095 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1342019095 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1342019095 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1342019095 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1342019095 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1342019095 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1342019095 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1342019095 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1342019095 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl\sdl_keysym.h
+
+1342019095 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1342019095 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1342019095 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1342019095 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1342019095 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1342019095 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1342019095 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1342019107 c:\users\faqn\documents\github\tic-tac-toe\tablero.h
+	<SDL/SDL.h>
+	"CSurface.h"
+
+1342019090 c:\users\faqn\documents\github\tic-tac-toe\csurface.h
+	<SDL.h>
+
+1342019095 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl.h
+	"SDL_main.h"
+	"SDL_types.h"
+	"SDL_getenv.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_timer.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_joystick.h"
+	"SDL_events.h"
+	"SDL_video.h"
+	"SDL_byteorder.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1342019096 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl_main.h
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1342019096 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl_types.h
+
+1342019096 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\begin_code.h
+
+1342019096 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\close_code.h
+
+1342019095 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl_getenv.h
+	"begin_code.h"
+	"close_code.h"
+
+1342019095 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl_error.h
+	"begin_code.h"
+	"close_code.h"
+
+1342019096 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl_rwops.h
+	<stdio.h>
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1342019096 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl_timer.h
+	"SDL_main.h"
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1342019095 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl_audio.h
+	<stdio.h>
+	"SDL_main.h"
+	"SDL_types.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_byteorder.h"
+	"begin_code.h"
+	"close_code.h"
+
+1342019095 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl_byteorder.h
+
+1342019095 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl_cdrom.h
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1342019095 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl_joystick.h
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1342019095 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl_events.h
+	"SDL_types.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1342019095 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl_active.h
+	"begin_code.h"
+	"close_code.h"
+
+1342019095 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl_keyboard.h
+	"SDL_types.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1342019095 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl_keysym.h
+
+1342019096 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl_mouse.h
+	"SDL_types.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1342019096 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl_video.h
+	<stdio.h>
+	"SDL_types.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1342019096 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl_mutex.h
+	"SDL_main.h"
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1342019096 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl_quit.h
+
+1342019096 c:\users\faqn\documents\github\tic-tac-toe\sdl\include\sdl_version.h
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1342019089 source:c:\users\faqn\documents\github\tic-tac-toe\button.cpp
+	"Button.h"
+
+1342019089 c:\users\faqn\documents\github\tic-tac-toe\button.h
+	<SDL/SDL.h>
+	"CSurface.h"
+
+1342019089 source:c:\users\faqn\documents\github\tic-tac-toe\capp.cpp
+	"CApp.h"
+	<fstream>
+	<iostream>
+
+1342019089 c:\users\faqn\documents\github\tic-tac-toe\capp.h
+	<SDL/SDL.h>
+	"CSurface.h"
+	"CEvent.h"
+	"Menu.h"
+	"AI.h"
+
+1342019090 c:\users\faqn\documents\github\tic-tac-toe\cevent.h
+	<SDL.h>
+
+1342019090 c:\users\faqn\documents\github\tic-tac-toe\menu.h
+	<SDL/SDL.h>
+	"CSurface.h"
+	"Button.h"
+
+1342019089 source:c:\users\faqn\documents\github\tic-tac-toe\capp.h
+	<SDL/SDL.h>
+	"CSurface.h"
+	"CEvent.h"
+	"Menu.h"
+	"AI.h"
+
+1342019090 source:c:\users\faqn\documents\github\tic-tac-toe\capp_oncleanup.cpp
+	"CApp.h"
+
+1342019090 source:c:\users\faqn\documents\github\tic-tac-toe\capp_onevent.cpp
+	"CApp.h"
+	<fstream>
+	<iostream>
+
+1342019090 source:c:\users\faqn\documents\github\tic-tac-toe\capp_oninit.cpp
+	"CApp.h"
+	<fstream>
+	<iostream>
+
+1342019090 source:c:\users\faqn\documents\github\tic-tac-toe\capp_onloop.cpp
+	"CApp.h"
+
+1342019090 source:c:\users\faqn\documents\github\tic-tac-toe\capp_onrender.cpp
+	"CApp.h"
+
+1342019090 source:c:\users\faqn\documents\github\tic-tac-toe\cevent.cpp
+	"CEvent.h"
+	<fstream>
+	<iostream>
+
+1342019090 source:c:\users\faqn\documents\github\tic-tac-toe\csurface.cpp
+	"CSurface.h"
+
+1342019090 source:c:\users\faqn\documents\github\tic-tac-toe\menu.cpp
+	"Menu.h"
+
+1342019107 source:c:\users\faqn\documents\github\tic-tac-toe\tablero.cpp
+	"Tablero.h"
+	<fstream>
+	<iostream>
+
