@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_layout_file>
 	<ActiveTarget name="Release" />
-	<File name="AI.cpp" open="1" top="1" tabpos="15">
+	<File name="AI.cpp" open="1" top="0" tabpos="16">
 		<Cursor position="534" topLine="9" />
 	</File>
-	<File name="AI.h" open="1" top="0" tabpos="16">
+	<File name="AI.h" open="1" top="0" tabpos="17">
 		<Cursor position="390" topLine="0" />
 	</File>
-	<File name="Button.cpp" open="0" top="0" tabpos="14">
-		<Cursor position="746" topLine="0" />
+	<File name="Button.cpp" open="1" top="0" tabpos="14">
+		<Cursor position="111" topLine="0" />
 	</File>
-	<File name="Button.h" open="1" top="0" tabpos="14">
-		<Cursor position="14" topLine="0" />
+	<File name="Button.h" open="1" top="0" tabpos="15">
+		<Cursor position="457" topLine="0" />
 	</File>
-	<File name="CApp.cpp" open="1" top="0" tabpos="17">
-		<Cursor position="591" topLine="0" />
+	<File name="CApp.cpp" open="1" top="0" tabpos="18">
+		<Cursor position="1086" topLine="34" />
 	</File>
 	<File name="CApp.h" open="1" top="0" tabpos="4">
-		<Cursor position="325" topLine="0" />
+		<Cursor position="327" topLine="9" />
 	</File>
 	<File name="CApp_OnCleanup.cpp" open="1" top="0" tabpos="9">
 		<Cursor position="243" topLine="0" />
@@ -40,20 +40,20 @@
 	<File name="CEvent.h" open="1" top="0" tabpos="8">
 		<Cursor position="114" topLine="6" />
 	</File>
-	<File name="Csurface.cpp" open="1" top="0" tabpos="18">
+	<File name="Csurface.cpp" open="1" top="0" tabpos="19">
 		<Cursor position="47" topLine="0" />
 	</File>
 	<File name="Csurface.h" open="1" top="0" tabpos="5">
 		<Cursor position="0" topLine="0" />
 	</File>
 	<File name="Menu.cpp" open="1" top="0" tabpos="12">
-		<Cursor position="38" topLine="0" />
+		<Cursor position="982" topLine="0" />
 	</File>
 	<File name="Menu.h" open="1" top="0" tabpos="13">
 		<Cursor position="142" topLine="0" />
 	</File>
-	<File name="Tablero.cpp" open="1" top="0" tabpos="10">
-		<Cursor position="616" topLine="0" />
+	<File name="Tablero.cpp" open="1" top="1" tabpos="10">
+		<Cursor position="348" topLine="0" />
 	</File>
 	<File name="Tablero.h" open="1" top="0" tabpos="11">
 		<Cursor position="403" topLine="0" />
